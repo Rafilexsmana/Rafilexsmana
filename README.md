@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Rafilexsmana
+# - 👋 Hello world!
+- I’m @Rafilexsmana 
 - 👀 I’m interested in backend, database and desaining
 - 🌱 I’m currently learning javascript for backend
 - 😄 I’m currently in collage at gunadarma
